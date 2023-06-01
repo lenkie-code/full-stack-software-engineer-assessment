@@ -16,7 +16,7 @@ Martha would also like her users to be able to access her library via a web appl
 In your implementation, take into account the following key details:
 
 - **Authentication & Authorization**: Since the application will most likely store customer data, some security constraints must be enforced on who has access to the data.
-- **API Documentation**: The application should run on any device, documenting the API would be important as it would allow any frontend engineer to make the app available to customers using different devices.
+- **API Documentation**: The application should run on any device with or without a web browser, documenting the API would be important as it would allow any frontend engineer to make the app available to customers using different devices.
 - **Responsive Design**: As much as possible, make the web application as responsive so that Martha's customers can access it from a wide range of devices.
 - ****
 
