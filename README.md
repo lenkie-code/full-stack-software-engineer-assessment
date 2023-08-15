@@ -1,4 +1,4 @@
-# Lenkie Full Stack Software Engineer Assessment
+# Lenkie Software Engineer Assessment
 
 Martha owns a local library, her customers often complain about coming to the book store and not finding the books they
 came to borrow. To prevent this, customers currently call the library and ask if the books they are looking for are available. Typically, over the call:
