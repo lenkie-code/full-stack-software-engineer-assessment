@@ -25,7 +25,7 @@ For books that are reserved / currently borrowed out, customers should be able t
 
 ### What Tools Can You Use?
 
-- Use this opportunity to showcase your understanding of software architecture using .NET for your backend and either Vue.JS / React.JS / AngularJS on the frontend
+- Use this opportunity to showcase your understanding of software architecture using .NET for your backend and either Vue.JS / React.JS / AngularJS / Blazor / Razor on the frontend
 - You may use whatever persistent storage you think is best. 
 - Demonstrate your understanding of OAuth and how it can be used to secure APIs. You can use your own Identity Server or leverage an existing one.
 - Demonstrate your ability to make calls to API endpoints from your frontend application using best practices with regards to:
